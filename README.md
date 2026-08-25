@@ -1,5 +1,5 @@
 
-# ReconDomain
+# GoCDN-Scanner
 ```
     /\_____/\
    /  o   o  \
