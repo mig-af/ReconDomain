@@ -1,15 +1,6 @@
 
 # GoCDN-Scanner
-```
-    /\_____/\
-   /  o   o  \
-  ( ==  ^  == )
-   )         (
-  (           )
- ( (  )   (  ) )
-(__(__)___(__)__)
-  
-```
+![GoCDN-Scanner-logo](./logo.jpg)
 > A passive subdomain scanner that detects CDN providers.
 
 ---
