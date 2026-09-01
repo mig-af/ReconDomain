@@ -1,7 +1,10 @@
 
+
 # GoCDN-Scanner
 ![GoCDN-Scanner-logo](./logo.jpg)
-> A passive subdomain scanner that detects CDN providers.
+
+
+**GoCDN-Scanner** is a tool in Go for network auditing. It automates subdomain discovery and CDN provider detection (Cloudflare, Akamai, AWS Cloudfront, Fastly) through concurrent CIDR range analysis using goroutines. It runs as a single binary with zero dependencies.
 
 ---
 
